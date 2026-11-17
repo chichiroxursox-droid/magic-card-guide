@@ -1,0 +1,7 @@
+.DS_Store
+# Card scans are Wizards of the Coast artwork; fetch_images.py downloads them from Scryfall.
+images/
+# Raw Scryfall API responses from the original build session.
+.cache/
+.planning/
+__pycache__/
